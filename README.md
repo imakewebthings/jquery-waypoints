@@ -1,4 +1,4 @@
-jquery-waypoints-redirect
+Waypoints isn't just for jQuery anymore!
 =========================
 
-You're looking for Waypoints. https://github.com/imakewebthings/waypoints
+With the release of Waypoints 3.0 the library no longer has a hard jQuery dependency, so the name has changed slightly. Please direct your attention to https://github.com/imakewebthings/waypoints
